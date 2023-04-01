@@ -11,7 +11,7 @@ func main() {
 	var remainingTickets = 50
 	bookings := []string{}
 
-	greetUser(conferenceName)
+	// greetUser(conferenceName)
 
 	// welcome message
 	fmt.Println("Welcome to", conferenceName)
