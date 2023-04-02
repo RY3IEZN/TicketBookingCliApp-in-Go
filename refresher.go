@@ -22,8 +22,8 @@ func main() {
 	var userName string
 	var lastName string
 	var userTickets int
-	// var booking = [50]string{}
-	// var bookingReg [50]string
+	var booking = [50]string{}
+	var bookingReg [50]string
 
 	//pointer is used to set the value to a variable, fmt.scan is to get the user input
 	// get the 1st name
